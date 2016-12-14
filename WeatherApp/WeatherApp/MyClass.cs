@@ -6,6 +6,7 @@ namespace WeatherApp
     {
         public MyClass()
         {
+
         }
     }
 }
